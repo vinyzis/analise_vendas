@@ -1,0 +1,201 @@
+ID_Pedido,Data_Pedido,Categoria_Produto,Produto,Quantidade_Vendida,Preco_Unitario,Custo_Unitario,Regiao_Venda,Cliente
+3f5e8b57-6cea-43ac-8af0-f8656c49f703,2024-07-15,Esportes,Bola de Futebol,1,3488.75,1867.16,Norte,Cauê Oliveira
+224a2626-89d1-430b-8fed-85e49acf01c4,2024-08-31,Beleza,Maquiagem,10,2039.14,1431.22,Sul,Dra. Natália Correia
+ac333461-9c91-4bfd-a88d-a4651aad450f,2024-09-17,Casa e Decoração,Sofá,1,3949.59,2227.25,Norte,Luiz Henrique da Mata
+12bfd712-d849-462c-b5dd-ea0f3f9c0e92,2025-04-23,Beleza,Maquiagem,4,575.36,432.6,Nordeste,Amanda da Mota
+d7ba66f3-8846-421a-8a48-de5ed8a827ff,2024-11-08,Casa e Decoração,Cadeira,8,237.39,142.92,Norte,Ana Julia Cardoso
+34dab28f-a32e-46b9-aa71-047d05950860,2025-01-30,Beleza,Creme Hidratante,4,4803.87,3612.58,Sudeste,Bruna Castro
+c2744fda-5c7b-4c81-8ed6-fd17bd146d1b,2025-04-20,Eletrônicos,Fone de Ouvido,9,557.71,296.1,Sudeste,Srta. Elisa Dias
+ba1194ab-d738-47dc-b8de-9b591c4a3318,2025-04-14,Esportes,Tênis de Corrida,8,768.46,417.68,Nordeste,Sr. Noah Cardoso
+4bffb9c8-b0ec-4240-9da5-cf91cfd9f180,2024-09-28,Esportes,Bola de Futebol,9,4507.64,2501.05,Nordeste,Diego da Costa
+88922605-15d5-4357-9d8a-667d6d98abc7,2025-04-05,Casa e Decoração,Cadeira,4,2713.99,1758.37,Sul,Dra. Isabelly Cunha
+6f83d671-e2d2-4207-89ed-dc82a4e38e6c,2025-04-09,Roupas,Calça Jeans,2,2642.08,1732.4,Centro-Oeste,Dr. Lucas Gabriel da Mota
+bacf013b-082a-40f9-b617-3914ea5be62d,2025-02-05,Roupas,Camiseta,1,2533.68,1706.7,Sul,Augusto Aragão
+066f3e38-198f-4200-b5a6-c4bc8ba1596b,2025-01-19,Casa e Decoração,Mesa,2,2062.79,1628.24,Norte,Davi Lucas Novaes
+d0bd4466-4833-4150-935d-22d06f78335f,2024-10-07,Roupas,Camiseta,3,3389.14,2655.49,Norte,Benício Souza
+2babd1ce-7211-4f44-9fae-2d6f0065a764,2025-04-05,Esportes,Bicicleta,8,1871.95,1297.36,Sul,Isadora da Costa
+81eba861-294f-4589-975e-b74836a9913d,2024-12-18,Beleza,Shampoo,3,3741.49,2161.14,Sul,Breno Castro
+69c66407-97bc-4882-ba2a-7808568daf57,2025-01-04,Roupas,Tênis,4,3658.54,2331.76,Norte,Srta. Mariane Pinto
+349a7002-8288-4004-bceb-e8ea4c9db5a0,2024-08-12,Eletrônicos,Fone de Ouvido,3,4581.58,3343.5,Sudeste,Murilo da Mata
+46d542c4-b388-4f83-b248-4ea1c3d78845,2024-10-09,Casa e Decoração,Luminária,3,3671.01,2870.42,Sudeste,Lorena Mendes
+c7d54a4a-9e6d-4f17-960f-37fb646b12b0,2024-09-15,Esportes,Bola de Futebol,3,2381.12,1647.41,Sul,Cauã Campos
+68ec3081-242b-41c7-874a-435efe038c33,2024-09-24,Beleza,Shampoo,5,295.62,185.91,Sudeste,Rebeca Araújo
+1e685f66-e7d6-4a68-b875-80bc32d9f399,2025-04-30,Roupas,Tênis,2,2478.57,1921.33,Sudeste,Davi Castro
+56130fb4-76e3-48b8-942d-a759c5daf246,2025-03-03,Casa e Decoração,Sofá,7,4177.12,2349.66,Sudeste,Maria Luiza Almeida
+2d69538e-314d-42c5-a1b2-33145c667d8f,2025-02-04,Beleza,Shampoo,1,4865.51,2679.21,Nordeste,Luiz Henrique Campos
+ab7957a8-efbc-41a5-9a01-5d40d20d4bda,2025-01-30,Esportes,Mochila,4,3689.82,2359.94,Norte,Melissa Pires
+34d04a6b-2288-418c-8bfe-19281ee5c8c4,2024-08-05,Esportes,Bola de Futebol,4,3087.34,2165.48,Sudeste,Ana Júlia Santos
+7b2cd4ac-1e44-4be7-9b80-c736fc4a6698,2025-05-21,Esportes,Mochila,9,1081.76,569.17,Norte,Srta. Laura Pereira
+25845e2a-fd91-43d9-aada-b7f55ee3ba64,2025-01-04,Beleza,Maquiagem,1,2011.14,1355.06,Nordeste,Laura Carvalho
+67f5324d-442c-498a-a34b-5b6f1470d91d,2025-05-17,Esportes,Bola de Futebol,4,394.76,291.73,Sudeste,Miguel da Conceição
+a39e17c6-0b86-4867-be12-9e3f4f156db5,2024-08-15,Esportes,Mochila,10,1220.77,626.28,Sul,Marcela Cardoso
+c2ae98b2-7946-40c8-9c75-46922b4098ec,2024-09-06,Beleza,Maquiagem,10,2014.53,1417.0,Sul,Sr. João Vitor Silva
+b300d048-a0d1-488f-8ef5-5bc9179657a0,2025-05-28,Casa e Decoração,Cadeira,3,3261.08,1698.28,Nordeste,Kaique Costela
+ca5de484-a338-4f12-b92b-4ce2408a4e1b,2025-02-11,Beleza,Perfume,1,2860.87,2287.9,Sul,Isabelly Pereira
+f564e860-2950-4e0c-8881-c2db4ed58ea2,2025-04-19,Beleza,Shampoo,7,4620.56,2465.21,Centro-Oeste,Enzo da Rosa
+775e6917-28e5-49a1-8ee4-1da0600b1a5c,2024-07-24,Esportes,Tênis de Corrida,1,2261.69,1688.82,Sul,Ana Moura
+eaedfd88-bf8f-4ddf-8acf-797e4dea4f8b,2025-02-20,Casa e Decoração,Luminária,10,1633.56,1105.39,Nordeste,Marcelo Azevedo
+4dd2f68f-7c4e-4ff1-93db-d10dae10e327,2024-11-16,Roupas,Camiseta,3,3680.84,2799.72,Sul,Ana Carolina Nogueira
+d2e37463-0949-4acd-96a1-006cdf54ba95,2024-10-01,Eletrônicos,Smartwatch,4,4466.52,2581.96,Nordeste,Sra. Heloísa Carvalho
+c7e5f325-8dbf-4913-9b09-6c51e474b4b8,2024-09-14,Roupas,Tênis,4,3076.33,2133.53,Sudeste,Alícia Santos
+832d4aaa-b4c5-4f00-b0df-bc6da659837e,2024-08-14,Casa e Decoração,Mesa,6,204.84,163.55,Sudeste,Olivia da Luz
+96050932-596d-433f-bb8d-aaaece40c760,2024-09-18,Eletrônicos,Smartwatch,7,3097.66,2069.56,Centro-Oeste,Lorena Ribeiro
+d00d9c49-0170-4fcb-9243-4284118dd19d,2024-07-14,Eletrônicos,Fone de Ouvido,2,1167.72,603.89,Nordeste,Cecília Viana
+b1bd26ce-b11d-4b9c-ac2d-d1efba5565b3,2024-11-22,Eletrônicos,Smartphone,7,650.57,516.93,Sul,Ana Julia da Rosa
+26d792f7-20d5-4092-b344-d7a168711b7e,2024-07-10,Roupas,Tênis,2,4067.23,3125.64,Sudeste,Vitor da Mata
+8af66a4b-22e6-442c-bdd3-5a9bcf4b198b,2024-06-13,Eletrônicos,Smartwatch,4,1071.16,577.64,Nordeste,Rafaela Fogaça
+91aa9ecf-9303-468b-a8b9-397c92b1b387,2024-11-15,Roupas,Jaqueta,8,1801.64,1022.45,Norte,Bianca Barros
+50522da0-7417-4350-b75b-21e8d4b879ee,2024-10-27,Casa e Decoração,Cadeira,2,1589.83,1175.27,Sudeste,Laís Pinto
+8d1817fc-fe40-40d2-a011-b8766434f868,2024-10-04,Beleza,Creme Hidratante,2,2450.16,1251.67,Nordeste,Lavínia Fernandes
+c63095ce-2eb4-4d88-88ef-4c2be68208a0,2024-12-05,Beleza,Shampoo,7,521.12,405.93,Sul,Vicente Santos
+cfb2fd0c-61f2-48ea-8f05-1e818df8f714,2025-04-08,Roupas,Tênis,3,4032.84,2052.01,Sul,Vitor Gabriel Lopes
+102373bd-c80d-47b7-ae75-29ae02e23abe,2025-06-05,Eletrônicos,Smartphone,6,4944.48,2980.89,Nordeste,Samuel Gonçalves
+e24b2736-c532-4f80-89c8-fec24ff88151,2024-07-09,Beleza,Maquiagem,8,718.76,399.52,Nordeste,João Lucas Fogaça
+e5a245be-f22d-4210-9993-2e6e13ec625d,2024-12-15,Casa e Decoração,Cadeira,1,2495.14,1456.26,Nordeste,Sophie Ribeiro
+fb2b3e38-bcba-486e-a822-744f48eb5183,2025-03-10,Roupas,Camiseta,6,4155.31,2691.45,Norte,Vitória da Rosa
+a69d20a3-7086-4881-8f40-dd013e9a0c98,2024-08-01,Eletrônicos,Notebook,6,809.21,510.52,Centro-Oeste,Leandro da Rocha
+f739e118-9364-4794-9988-80962ca3b0af,2024-11-14,Roupas,Tênis,9,3981.5,3010.82,Sul,Luiz Henrique Moura
+5d76caa7-34f9-4bb4-885e-1b601a1a42bc,2024-06-23,Beleza,Perfume,8,2783.84,1544.21,Sul,Leonardo Costa
+8b3acf9d-e66b-439e-8fc6-8d6d446f0cc6,2025-01-30,Beleza,Maquiagem,7,4238.6,2959.22,Centro-Oeste,Emanuelly Santos
+eb002725-2d61-44ba-abae-e5f7c6780e84,2024-10-29,Casa e Decoração,Mesa,8,2252.55,1362.93,Norte,Sr. Cauã Nascimento
+a138741e-3b4f-4acd-9a11-ee5d72ac95d6,2025-04-10,Casa e Decoração,Sofá,9,3317.24,1737.17,Nordeste,Isadora Silveira
+6d1b900a-a1e8-4565-95fe-75e2058c3993,2025-02-23,Beleza,Maquiagem,3,1596.93,882.24,Sul,Anthony Farias
+fe860782-80e5-41d7-bdb7-c7faebc1822d,2025-02-12,Roupas,Tênis,1,2615.73,1329.48,Sul,Lorena Freitas
+6d22e083-f9c8-465f-831f-36f609a0ab1e,2024-11-28,Esportes,Bola de Futebol,7,1460.81,860.7,Sul,Breno Cunha
+6a57e7cb-52ec-47bb-b028-f3f00096bfa5,2025-03-25,Esportes,Bola de Futebol,2,1722.02,1012.85,Sudeste,Alana Rodrigues
+7449f47f-60b9-4ed3-90bf-3376cb852a1e,2024-09-07,Eletrônicos,Smartwatch,5,3376.19,1859.1,Norte,Laura Costela
+b7c36283-da8b-453a-8337-6e6e1a15f6ae,2024-11-10,Esportes,Bola de Futebol,5,4878.59,2888.63,Centro-Oeste,Heitor da Rocha
+41a5ebc6-9217-4060-b572-ba8f4fba6fdd,2024-12-05,Casa e Decoração,Luminária,5,2718.81,2140.0,Norte,João Vitor Porto
+201e7216-1b4f-48b7-855c-8b85bb6a3289,2025-06-05,Eletrônicos,Smartwatch,7,3996.73,2305.93,Nordeste,Lívia Viana
+65f9f104-e472-4cae-a987-707036bdb4fd,2024-10-24,Esportes,Bola de Futebol,7,1613.97,1249.28,Sul,Joaquim da Cruz
+df0fc119-842d-4811-8340-2a7afa356e5e,2025-06-09,Casa e Decoração,Sofá,3,4772.48,3214.99,Norte,João Gabriel da Rosa
+753f15a0-c061-4c1a-8915-44c8218c7a97,2024-06-17,Casa e Decoração,Sofá,1,4821.0,2561.18,Centro-Oeste,Beatriz Rocha
+3546597f-c3c4-4af1-bc35-c4e78f953f7b,2025-05-09,Esportes,Tênis de Corrida,5,3086.12,2056.21,Norte,Juan Freitas
+fb811e21-c71d-4dd5-b9d2-4212c55e93d5,2025-04-27,Esportes,Bola de Futebol,6,1321.78,688.87,Sudeste,Nina Alves
+258fe3b4-399c-41e0-8f39-7cec175c282c,2025-01-25,Roupas,Jaqueta,3,2726.8,2022.4,Norte,Eduarda Cardoso
+1be1591e-478f-4ac0-914e-04cf49ad8532,2024-10-31,Beleza,Perfume,2,3093.44,1911.61,Sul,Renan Rocha
+b4e00971-de32-4dda-8a9f-dd1042e7538c,2024-11-21,Beleza,Shampoo,4,1884.28,1026.83,Sul,Emanuella Nogueira
+0babe095-6d3e-41b4-9a13-d34319c76cf7,2024-07-14,Roupas,Tênis,5,3419.05,2420.21,Nordeste,Caio Cunha
+9c705da9-8c2d-4ef3-a0b2-30f7c9901ef6,2025-02-23,Roupas,Camiseta,9,1972.74,1045.71,Centro-Oeste,Sr. Heitor da Conceição
+fce7d98f-5fa9-49a7-a12e-f2d4f4660439,2024-09-03,Roupas,Tênis,2,2549.54,1524.21,Norte,Sr. Luiz Henrique Almeida
+8c33cee3-f226-4c65-8137-133759f93338,2025-02-28,Roupas,Jaqueta,4,4991.01,3072.66,Sul,Dra. Maria Sophia Dias
+d0b26ad9-9560-4756-b3fd-cd454b6a0002,2025-01-26,Casa e Decoração,Luminária,8,310.17,243.54,Norte,Ana Julia Pinto
+3ddf7e6c-b5fc-420e-b214-0ff70ba07418,2024-10-16,Eletrônicos,Smartwatch,9,2814.64,1646.63,Centro-Oeste,Amanda Rodrigues
+1e147d05-af64-4745-9b7d-cb44fab9c50e,2025-04-01,Casa e Decoração,Luminária,10,4669.77,2980.98,Centro-Oeste,Thomas Lima
+6e1075e3-81a7-48bd-9d0b-08bec9497970,2025-04-23,Esportes,Bicicleta,8,4271.97,2682.21,Nordeste,Sofia Sales
+0a962391-9f8f-4961-99e9-8f404b6734ff,2025-03-30,Roupas,Tênis,4,4377.07,2972.74,Norte,Camila Ramos
+56ff7cd1-6e5e-4fde-9fa8-a2f6b71a2047,2025-02-10,Casa e Decoração,Sofá,8,3728.79,2935.2,Sudeste,Vitor Hugo Oliveira
+b19a8985-ad05-4f79-84ef-7b0fa4244448,2025-01-23,Roupas,Calça Jeans,5,68.1,40.47,Norte,Dr. André da Cruz
+6b5fb986-7215-4551-be0d-6158251b94a8,2024-09-07,Beleza,Shampoo,2,893.65,563.33,Sul,Rodrigo Martins
+72a06d93-c76c-49d2-a720-5390c3068ce9,2024-11-28,Roupas,Camiseta,6,4114.4,2727.39,Sul,Gustavo Campos
+8f9654fa-3a9f-44fb-acaf-3a3d05fa1598,2024-10-14,Roupas,Calça Jeans,3,4089.79,2166.11,Sudeste,Ana Luiza Costa
+11133b7f-d42b-458f-9df1-9808fa28bfb9,2025-04-20,Casa e Decoração,Mesa,6,2529.93,1779.79,Nordeste,Felipe Porto
+ee01e86c-60a8-4f54-8ee0-62e282e41c57,2025-04-04,Roupas,Tênis,9,4266.64,2601.84,Sudeste,Sr. João Gomes
+c72885a0-8a0e-4bbb-9f6e-4b99b0d5e281,2025-05-07,Roupas,Calça Jeans,5,612.93,430.43,Sul,Ana Clara da Conceição
+989a64b8-e58c-4ecc-bb8b-7cac6cf4369f,2025-03-07,Roupas,Calça Jeans,10,1908.85,1315.12,Centro-Oeste,Rafael Freitas
+fa983934-115e-4c00-9a9f-c213b994a2cc,2025-04-25,Beleza,Perfume,2,2564.87,1871.23,Centro-Oeste,Fernanda Monteiro
+8a88bf21-e429-4d7b-aa23-815bbc498a9c,2024-09-06,Esportes,Tênis de Corrida,5,4394.13,3017.13,Sul,Dra. Esther Novaes
+2bef526b-544b-40ba-9a9c-94684aecb1e7,2025-05-28,Eletrônicos,Smartwatch,7,352.65,226.1,Norte,Sr. Noah Carvalho
+06ac4d21-fd8c-4bb1-83fb-af7617617bae,2024-10-05,Beleza,Perfume,5,116.59,61.61,Norte,Stella da Mata
+be8131fc-6ffd-444c-8dc5-e78f23d3599c,2024-07-30,Roupas,Calça Jeans,2,2901.41,1638.29,Norte,Vitor Gabriel Novaes
+35394bda-64ac-4f38-b366-e31989fb1010,2024-06-27,Beleza,Perfume,7,3707.04,1986.4,Norte,Evelyn Ribeiro
+1907eb78-0beb-41bd-85dd-986e894f428e,2024-10-02,Roupas,Tênis,3,350.44,180.74,Norte,Kamilly Araújo
+e5aeef27-f50a-4026-bd23-be9575031821,2024-12-26,Beleza,Creme Hidratante,1,3253.25,2300.32,Norte,Laura Ferreira
+e84d5ac0-de8c-4e9d-8dcd-6ba62fad177d,2024-07-26,Eletrônicos,Smartwatch,3,1554.54,951.68,Norte,Pietro Rezende
+bf908d2b-5692-45e4-92cf-0549ebce42ba,2024-09-12,Esportes,Bicicleta,9,3626.31,2399.2,Sul,Isadora Novaes
+4f139df0-0179-42ea-90ee-c271c3fe3615,2025-06-01,Esportes,Bicicleta,10,2280.69,1312.81,Nordeste,Lucas Gabriel da Paz
+f9978fe8-53c1-45e9-b68e-bfe85191e13f,2024-11-07,Esportes,Bicicleta,6,1074.93,852.01,Norte,Bruno Mendes
+41f5ae5f-7487-49f8-97cb-8994c7951f05,2025-03-25,Beleza,Perfume,4,1162.67,739.53,Norte,Bruno Cardoso
+ac3ea0ae-61a6-43ad-8de0-8b931bc2346d,2025-02-27,Esportes,Bola de Futebol,8,1508.27,1079.14,Sudeste,Kaique Ribeiro
+02720ca5-c521-40e7-8dfe-ee46ff5fc41a,2025-03-19,Esportes,Mochila,9,2765.87,1667.25,Centro-Oeste,Mariane Souza
+1310859f-e564-4903-ad28-13e8ca06fc87,2025-01-16,Roupas,Tênis,5,2568.7,1353.57,Sul,Bruno Costa
+7cb2d25b-8ae9-4e47-a7ea-f2d3ae1ab09f,2025-06-06,Casa e Decoração,Sofá,4,1672.42,1153.33,Sudeste,Thiago Porto
+9d981e3e-8ced-46e6-81ab-ac7175565677,2024-09-07,Eletrônicos,Smartwatch,1,1742.4,1232.86,Norte,Benício Barros
+02c5e1d3-db9a-4c72-b28d-614c6f6771e6,2025-05-13,Eletrônicos,Notebook,2,110.02,78.18,Centro-Oeste,Dr. Levi Rodrigues
+cfc1c70f-88c9-4762-ba7b-6c2049a14251,2024-08-05,Eletrônicos,Notebook,9,2710.42,1898.01,Centro-Oeste,Letícia Vieira
+913b2104-2589-4e6b-bb5b-f51249e8604d,2024-11-14,Roupas,Tênis,1,1382.59,831.81,Centro-Oeste,Dr. Augusto Barbosa
+34bf2d9f-6c6f-452e-be1a-147bc691f114,2025-05-12,Roupas,Tênis,7,1318.73,953.7,Sul,Lorenzo Nogueira
+1c5708d2-33e6-4b95-98a4-0686620f8220,2024-08-12,Beleza,Shampoo,6,4210.03,2409.32,Sul,Enzo Gabriel Cardoso
+5787b273-da23-48de-bb7b-92bb14ca26b9,2024-11-29,Beleza,Shampoo,3,3943.91,2879.71,Sudeste,Dr. Benjamin Sales
+dc36c1a6-58a9-4e44-bd9f-bf8ccd19ab8d,2024-12-22,Beleza,Perfume,2,4633.28,2605.62,Centro-Oeste,Rafael Costa
+0b521296-994d-4678-b74f-0d811b5152e9,2024-12-15,Beleza,Perfume,1,3782.86,2671.11,Centro-Oeste,Thomas Nunes
+8a66bd10-31b7-407d-87f1-4ab9cd41af69,2024-09-08,Roupas,Calça Jeans,6,3573.94,2510.05,Sul,Noah Teixeira
+225dc320-15f9-4824-b059-a947ec1153b8,2025-04-06,Beleza,Shampoo,6,1575.38,1017.98,Sul,Lucas Gabriel Porto
+1e7021a8-51a9-4f74-99b9-95dbf1ccfd32,2025-04-29,Beleza,Shampoo,7,4005.73,2009.4,Sudeste,Sr. Juan Cavalcanti
+f4ce788b-6b33-458b-874e-7d97ffb9db26,2025-03-13,Casa e Decoração,Mesa,5,446.76,233.65,Sul,Nicole Campos
+59d8b211-2d24-4d9d-b1e8-7c6278c04b78,2024-08-06,Esportes,Tênis de Corrida,6,4146.87,3293.49,Norte,Srta. Alice Teixeira
+368775e8-8d56-4742-9a42-c3286cfb5c44,2025-02-10,Casa e Decoração,Mesa,7,2086.01,1288.11,Centro-Oeste,Luiz Felipe Nunes
+7c4eb73f-448f-48c6-b74a-3f8a2865a5e9,2024-11-14,Eletrônicos,Smartwatch,3,186.1,146.12,Sudeste,Bárbara Caldeira
+28bcef18-bd27-4663-b131-0e827998725e,2024-09-14,Beleza,Maquiagem,8,4341.85,2825.84,Sul,Sr. Levi Silveira
+ecdad186-3754-494a-9d07-ce736c88d405,2024-10-05,Casa e Decoração,Luminária,3,716.38,455.49,Sul,Davi Luiz Barros
+5a9329bf-f715-4fd2-b0c5-1660a79ba741,2024-08-27,Esportes,Bola de Futebol,6,4116.43,2579.8,Centro-Oeste,Maysa Silva
+f9f3e85f-b114-47a0-99d8-d65fb6942d36,2025-01-10,Esportes,Bicicleta,2,2587.87,1905.52,Sul,Miguel Novaes
+181304c5-b8f6-4950-83d8-3cc40b7f161e,2024-06-13,Roupas,Jaqueta,10,296.12,223.63,Nordeste,Sr. Carlos Eduardo Nascimento
+27c615cb-ab00-404a-8b48-d3a3f655546f,2024-11-11,Eletrônicos,Notebook,2,1235.17,861.27,Norte,João Guilherme Nascimento
+a78b96ce-ed2c-4f6a-b46c-601f71ddacdf,2024-08-31,Eletrônicos,Notebook,2,443.19,261.57,Norte,Breno Nascimento
+77899415-eb66-4fc8-9235-88332211f43d,2025-05-03,Eletrônicos,Smartwatch,7,575.84,323.86,Norte,Rafael Caldeira
+d047b326-a906-4ccb-a2ce-ea3161fb8bcf,2024-06-25,Roupas,Tênis,6,2518.73,1956.48,Nordeste,Cauê Monteiro
+1d690f99-c796-4230-ae97-5f92ec19361a,2024-12-05,Casa e Decoração,Luminária,10,1334.43,684.66,Sul,Dr. Marcelo Moraes
+802279e3-d2f6-4316-a71f-e3cc19771e48,2024-11-04,Beleza,Perfume,10,258.25,200.69,Sudeste,Nina Moraes
+4beee625-fbcf-4c57-bf5e-f772a8dfe58b,2024-11-10,Esportes,Tênis de Corrida,5,3237.97,2200.47,Norte,Catarina da Rosa
+481e980c-0a48-4987-8b7b-90fd03b1d3df,2025-03-16,Roupas,Calça Jeans,6,4671.15,3440.47,Sul,Rodrigo Almeida
+0be57c5d-118a-4b04-8288-a72a7f337b66,2025-05-27,Esportes,Tênis de Corrida,3,333.94,248.18,Sudeste,Julia Lopes
+d3dd1e66-a2e1-47dd-9974-743615c2e9a8,2025-03-08,Beleza,Shampoo,9,1237.02,622.87,Norte,Heloísa Carvalho
+9c921380-f27a-405e-bebb-57f276e50407,2024-11-04,Casa e Decoração,Mesa,5,2564.57,1762.61,Norte,Sr. Gabriel Porto
+93d5b5c7-355b-43f0-8a0d-72d968ce0150,2025-01-01,Casa e Decoração,Mesa,8,1278.55,854.94,Sudeste,Luiz Felipe Azevedo
+86848898-e3e2-4f05-915c-ceceadd1f842,2024-08-31,Esportes,Bicicleta,8,984.23,683.39,Centro-Oeste,Brenda Lima
+d0131326-8b72-42e1-9b50-0da06b8bd7fb,2025-06-07,Beleza,Creme Hidratante,9,2809.71,1765.9,Sul,Kamilly Silva
+9f09c27b-c6b8-40fb-a5aa-de7477d8870e,2024-10-12,Eletrônicos,Fone de Ouvido,3,4619.35,2432.04,Sul,Isadora Porto
+a4f6d3e5-6b42-46aa-adc1-127e25d340b0,2024-10-14,Beleza,Creme Hidratante,5,4811.74,2677.86,Nordeste,Dr. Samuel Silva
+091fa08a-cebf-4c19-83f2-b9dca5ede6a7,2025-05-20,Casa e Decoração,Cadeira,4,4026.07,2933.49,Sul,Pedro Lucas da Paz
+104ba60f-8a39-4577-bdaa-8d28ca7ddb8f,2025-05-27,Roupas,Tênis,3,2819.66,1569.35,Sul,Dr. João Vitor Dias
+afa62911-9ba0-450a-9019-00c8ba853d1a,2025-03-20,Beleza,Creme Hidratante,7,1775.99,1129.67,Sul,Dr. Danilo da Paz
+a64d4b5a-219a-4d06-9659-a718e638f615,2025-01-08,Eletrônicos,Smartphone,9,4957.66,2845.69,Sudeste,Marcelo Freitas
+c567cf25-7e71-47e9-b6b3-02342071939a,2024-10-12,Eletrônicos,Smartphone,6,1984.76,1320.14,Norte,Otávio da Rocha
+55c2e471-a8ea-4507-95f7-ad38e215eacb,2025-01-22,Esportes,Bicicleta,8,1766.1,973.34,Sudeste,João Gabriel Fernandes
+5f348b64-62af-4c4d-8945-8204a379c0d3,2024-08-16,Eletrônicos,Notebook,3,1760.04,1391.33,Nordeste,Eduarda da Rosa
+5521e755-f007-484a-b73f-b073c0457182,2024-12-17,Esportes,Tênis de Corrida,1,2552.58,1430.98,Sul,Enrico das Neves
+2858a6d9-e473-4ac1-93de-a23c05bbcc74,2024-07-18,Beleza,Shampoo,9,3990.49,2197.14,Centro-Oeste,Laís Costa
+65c39e28-da7b-432c-9dfd-68e379889d01,2024-10-23,Casa e Decoração,Mesa,2,96.27,66.88,Norte,Diogo Pires
+15740e86-faeb-42e5-8670-6ab1de23ace8,2024-08-09,Eletrônicos,Smartphone,4,4415.83,2828.84,Sul,Rafael Novaes
+b17f74a2-c9d4-47e9-9059-d555b6842f25,2024-07-01,Esportes,Mochila,1,3351.68,1806.0,Sudeste,Larissa Moura
+b5e66e5c-1251-43d4-97bd-3cbdb216bc17,2024-12-09,Beleza,Shampoo,6,329.91,243.39,Nordeste,Henrique Farias
+98d76b96-da8d-400f-bea9-def2969e1e43,2024-07-27,Casa e Decoração,Luminária,3,668.31,391.76,Sul,João Costa
+f7335a40-38f0-450b-839b-87fc06b31b40,2025-03-02,Esportes,Bola de Futebol,2,4367.13,3186.76,Centro-Oeste,Marcelo Barros
+04fa8b7f-8e79-44b7-aac1-dd771cee81a0,2025-03-20,Esportes,Tênis de Corrida,5,2196.09,1102.17,Centro-Oeste,Calebe Carvalho
+bccc6a97-24ff-490c-a2ab-e171409451fd,2024-09-13,Beleza,Shampoo,4,786.05,551.72,Nordeste,João Gabriel da Rocha
+71e41396-7dd8-47ee-a9bb-300637a416d2,2024-07-12,Beleza,Shampoo,9,793.45,563.4,Sudeste,Dr. Vitor Gabriel da Rocha
+d59a1070-f08c-476a-8f1f-5766a6048093,2024-12-10,Beleza,Maquiagem,10,2047.2,1289.03,Norte,Thomas Ribeiro
+a0b94b30-3560-413d-89e0-d4cd63d39587,2025-01-14,Esportes,Tênis de Corrida,7,1961.38,1416.18,Centro-Oeste,Fernando da Paz
+991a84b4-bb77-4f08-aa71-af8844a91e9f,2024-11-30,Eletrônicos,Smartwatch,4,1727.45,1195.47,Sudeste,Sr. João Felipe Costa
+4b9601c0-dd32-47c3-9b1f-4a13d889ac50,2024-10-18,Beleza,Maquiagem,5,2005.95,1340.75,Centro-Oeste,Maria Clara Nascimento
+47571da0-7dd1-4e69-a7e0-692fb8b95767,2024-08-11,Roupas,Camiseta,4,441.4,282.45,Sul,Maria Julia da Mota
+4c168109-9952-4124-9817-c2dbf18d69d6,2025-04-04,Eletrônicos,Notebook,2,2742.75,1893.21,Sudeste,Ana Vitória Araújo
+93b34481-7be8-4d27-bac5-65e75e251d59,2025-05-12,Esportes,Bola de Futebol,10,4027.5,3061.94,Nordeste,Benjamin Jesus
+ac52e0e1-ce66-4b09-8eda-26f45ca1b18b,2024-06-27,Beleza,Creme Hidratante,9,2828.31,1867.45,Centro-Oeste,Davi Lucas Freitas
+df5bb164-3767-4afd-9770-ac41c7b8f23e,2024-06-19,Eletrônicos,Smartwatch,1,89.62,68.05,Nordeste,Marcela Costela
+eaad20c6-aecc-4e62-b31a-d720eab65c45,2024-10-01,Roupas,Jaqueta,6,3209.87,2048.78,Nordeste,Davi Fogaça
+22877dc8-50aa-4711-9c4d-6ad7a483e2e8,2024-09-09,Esportes,Bicicleta,4,151.05,111.05,Nordeste,Isabelly Nascimento
+e9dae10e-02a0-4f51-9934-2469e3578d5a,2024-10-05,Roupas,Jaqueta,4,3488.68,2589.94,Sul,Sr. Davi Lucca da Mata
+a75686cb-369b-4a55-875b-073f670c4941,2025-03-10,Roupas,Tênis,4,854.28,539.63,Nordeste,Julia Viana
+a112cbce-2955-4ec6-bd1f-6fa0103df547,2025-02-22,Roupas,Jaqueta,1,4028.69,2849.58,Sudeste,Benjamin da Paz
+adea040b-ec43-47a4-ba75-df9a46016784,2025-04-19,Esportes,Bola de Futebol,3,912.9,714.47,Centro-Oeste,Nicole Novaes
+2419f4e5-20f2-4d7a-b7bd-12c952833cee,2025-03-30,Beleza,Shampoo,2,2120.09,1337.75,Sul,Dra. Ana Laura Lopes
+fe0db658-a71a-4a5f-b0a1-4fb92db9bc30,2025-03-28,Eletrônicos,Fone de Ouvido,5,2963.02,1848.83,Sul,Clara Nunes
+1372cbb0-3869-4e61-984f-77be8a6642cb,2025-03-23,Roupas,Jaqueta,7,2918.21,1593.39,Nordeste,Sr. Davi Melo
+d435113b-5c81-465c-b413-1fe19cb2283a,2024-09-10,Roupas,Jaqueta,9,3067.31,1820.72,Nordeste,Sra. Ana Beatriz Ferreira
+67882a46-fc45-4fbf-a78b-6bba054c804f,2025-04-29,Beleza,Maquiagem,9,3364.12,1829.14,Centro-Oeste,Mariana Ramos
+140ee448-ae39-47c7-a2a7-2f03c546a327,2024-08-12,Roupas,Jaqueta,9,4043.55,3229.4,Sul,Sr. João Lucas Costa
+30833584-53d2-4d4d-8ad6-f9422e302c3b,2025-04-10,Esportes,Tênis de Corrida,4,927.53,618.48,Nordeste,Dra. Giovanna Dias
+50a5a741-5862-4dd8-8b83-1018a9e382e5,2025-04-25,Esportes,Bicicleta,9,591.62,305.89,Sul,Joana Sales
+efa005e6-40fc-43c9-847e-1d6d06da28ae,2024-11-07,Eletrônicos,Fone de Ouvido,2,4259.73,3340.7,Sudeste,Agatha das Neves
+1c417e02-e4bb-45bd-940f-74bc7ef27c01,2025-01-30,Casa e Decoração,Mesa,4,1310.11,711.87,Sul,Maria Eduarda Rocha
+b27f6bfe-75e8-4860-a203-1b9104b4cf92,2024-09-15,Roupas,Calça Jeans,1,1143.13,839.19,Centro-Oeste,Maria Luiza Martins
+e7c9c511-53f1-4adf-bf39-c466f7d66efc,2025-01-26,Beleza,Perfume,1,2248.96,1716.49,Nordeste,Benício das Neves
+21a3133d-661e-4f5a-b34c-aedc7e321094,2024-09-07,Roupas,Jaqueta,1,754.16,559.35,Nordeste,Dra. Rafaela Almeida
+91b06188-08bc-4734-9e13-3bf06d31bdd4,2024-11-20,Eletrônicos,Smartwatch,5,1086.22,689.02,Sudeste,Nina Souza
+708257d1-86be-4489-be9e-d2c2943ce33e,2024-09-02,Beleza,Creme Hidratante,5,4421.48,3233.49,Nordeste,Luiz Henrique Azevedo
+da60b1bd-8a16-44e7-b5e3-136d7e82b095,2024-06-25,Esportes,Mochila,1,2493.0,1939.53,Nordeste,Kaique Cavalcanti
+fb7b7232-d443-4202-b82c-cb1dd0ce6bdf,2025-01-09,Esportes,Bicicleta,5,4573.46,2811.75,Norte,Laís Cardoso
+b5be96f2-3eda-4e51-ac16-b6c74e505d86,2024-11-10,Eletrônicos,Smartphone,7,3903.47,1959.61,Sudeste,Melissa Porto
+c02ae50a-de96-4c76-b4d3-ced4326f128b,2025-04-21,Beleza,Maquiagem,10,3651.98,2595.78,Centro-Oeste,Benício Barbosa
